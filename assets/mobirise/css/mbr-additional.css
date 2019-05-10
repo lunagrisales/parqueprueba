@@ -1382,37 +1382,6 @@ body {
     flex: auto!important;
   }
 }
-.jq-selectbox li:hover,
-.jq-selectbox li.selected {
-  background-color: #55b4d4;
-  color: #ffffff;
-}
-.jq-selectbox .jq-selectbox__trigger-arrow,
-.jq-number__spin.minus:after,
-.jq-number__spin.plus:after {
-  transition: 0.4s;
-  border-top-color: currentColor;
-  border-bottom-color: currentColor;
-}
-.jq-selectbox:hover .jq-selectbox__trigger-arrow,
-.jq-number__spin.minus:hover:after,
-.jq-number__spin.plus:hover:after {
-  border-top-color: #55b4d4;
-  border-bottom-color: #55b4d4;
-}
-.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_default,
-.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current,
-.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div.xdsoft_current {
-  color: #000000 !important;
-  background-color: #55b4d4 !important;
-  box-shadow: none!important;
-}
-.xdsoft_datetimepicker .xdsoft_calendar td:hover,
-.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
-  color: #ffffff !important;
-  background: #7f1933 !important;
-  box-shadow: none !important;
-}
 .cid-rpkOgRxW38 {
   background-image: url("../../../assets/images/menu-3-960x560.png");
 }
@@ -1501,29 +1470,50 @@ body {
   display: none;
 }
 .cid-rpYwXIGLGk {
-  background-image: url("../../../assets/images/mesa-de-trabajo-1-960x560.png");
+  background-image: url("../../../assets/images/abs-1-960x560.png");
+}
+.cid-rpYwXIGLGk .mbr-text,
+.cid-rpYwXIGLGk .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-rpYz402n2G {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #2ad3d3;
+  background-color: #7ef993;
 }
 .cid-rpYz402n2G P {
   color: #767676;
 }
+.cid-rq3q9muzh3 {
+  background-image: url("../../../assets/images/multifuncional-960x558.png");
+}
+.cid-rq3q9muzh3 .mbr-text,
+.cid-rq3q9muzh3 .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-rpYxmfLYwX {
-  background-image: url("../../../assets/images/mesa-de-trabajo-3-960x560.png");
+  background-image: url("../../../assets/images/twisted-960x560.png");
 }
 .cid-rpYyQ7fjJ2 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #c3edf1;
+  background-color: #cc2952;
 }
 .cid-rpYyQ7fjJ2 P {
   color: #767676;
 }
+.cid-rq3nyjBwr1 {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/eliptica-961x560.png");
+}
 .cid-rpYxuNX0kW {
-  background-image: url("../../../assets/images/mesa-de-trabajo-2-960x560.png");
+  background-image: url("../../../assets/images/poleas-960x560.png");
+}
+.cid-rpYxuNX0kW .mbr-text,
+.cid-rpYxuNX0kW .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
 }
 .cid-rpYyrP1cQR {
   padding-top: 90px;
@@ -1532,4 +1522,12 @@ body {
 }
 .cid-rpYyrP1cQR P {
   color: #767676;
+}
+.cid-rq3phu65bx {
+  background-image: url("../../../assets/images/horizontal-960x560.png");
+}
+.cid-rq3phu65bx .mbr-text,
+.cid-rq3phu65bx .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
 }
